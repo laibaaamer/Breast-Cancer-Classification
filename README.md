@@ -190,9 +190,6 @@ Possible improvements include:
 
 BS Artificial Intelligence Student
 
-GitHub: `your-github-username`
-
-LinkedIn: `your-linkedin-profile`
 
 ## 📄 License
 
